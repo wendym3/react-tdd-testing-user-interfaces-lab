@@ -1,8 +1,8 @@
 function App() {
   return (
     <div>
-      <h1>Hi, I'm Your Name</h1>
-      <img src="your-image-url" alt="Your Name" />
+      <h1>Hi, I'm Peter</h1>
+      <img src="your-image-url" alt="Peter" />
       <h2>About Me</h2>
       <p>Your biography</p>
       <a href="https://github.com/your-username">GitHub</a>
